@@ -1,0 +1,11 @@
+.element {
+    background-image: url('/public/u.jpg');
+    background-size: cover;  
+    background-position: center;  
+    background-repeat: no-repeat; 
+    height: 510px; 
+    width: 100%; 
+  }
+  h1{
+    text-align: center;
+  }

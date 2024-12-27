@@ -1,0 +1,20 @@
+form {
+    width: 80%;
+    max-width: 600px; /* Ajuste la largeur selon vos besoins */
+  }
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .container {
+    min-height: 100vh; /* Utilise toute la hauteur de l'écran */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .register-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
